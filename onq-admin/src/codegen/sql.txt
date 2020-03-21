@@ -1,0 +1,7 @@
+CREATE DATABASE `school`;
+CREATE TABLE `school`.`codes`(
+    `id` int(5) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `code` varchar(10) NOT NULL,
+    `school` varchar(100) NOT NULL,
+    `claimed` varchar(50) NOT NULL
+    ) ENGINE = MYISAM;

@@ -1,0 +1,105 @@
+#u{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:140px;
+	height:140px;
+	background-image:url(../sponsers/platinum.png);
+	background-size:contain	;
+}
+#v{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:110px;
+	height:110px;
+	background-image:url(../sponsers/gold.png);
+	background-size:contain	;
+}
+#w{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:95px;
+	height:95px;
+	background-image:url(../sponsers/silver.png);
+	background-size:contain	;
+}
+
+#x{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:85px;
+	height:85px;
+	float:right;
+	background-image:url(../sponsers/ast1.png);
+	background-size:contain	;
+}
+#y{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:85px;
+	height:85px;
+	background-image:url(../sponsers/ast2.png);
+	background-size:contain	;
+}
+#z{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:85px;
+	height:85px;
+	float:left;
+	background-image:url(../sponsers/ast3.png);
+	background-size:contain	;
+}
+#us{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:120px;
+	height:120px;
+	background-image:url(../sponsers/platinum.png);
+	background-size:contain	;		
+}
+#vs{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:90px;
+	height:90px;
+	background-image:url(../sponsers/gold.png);
+	background-size:contain	;
+}
+#ws{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:75px;
+	height:75px;
+	background-image:url(../sponsers/silver.png);
+	background-size:contain	;
+}
+
+#xs{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:65px;
+	height:65px;
+	float:right;
+	background-image:url(../sponsers/ast1.png);
+	background-size:contain	;
+}
+#ys{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:65px;
+	height:65px;
+	background-image:url(../sponsers/ast2.png);
+	background-size:contain	;
+}
+#zs{
+	border:solid #444 0em;
+	border-radius:100%;
+	width:65px;
+	height:65px;
+	float:left;
+	background-image:url(../sponsers/ast3.png);
+	background-size:contain	;
+}
+.link{
+	color:#000;
+}

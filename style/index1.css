@@ -1,0 +1,42 @@
+body{
+	/**/background-image:url(../back/logback.jpg);
+	background-size:cover;
+	background-position:left;
+	font-family:arial;
+
+}
+input{
+	border-radius:5px;
+	padding:5px;
+	border: solid #e1e1e1 1px;
+}
+#part1{
+	width:30%;
+	height:100%;
+	background-color:#FFF;
+	border-radius:10px;
+	float:right;
+}
+#btn{
+	width:98%;
+	height:30px;
+	font-size:16px;
+	color:#FFF;
+	border:none;
+	background-color:#06F;
+}
+#btn:hover{
+	/*border:outset;*/
+	background-color:#0261EF;
+	border-color:#03C;
+	border-width:2px;
+	cursor:pointer;
+}
+#btn:active{
+	position:relative;
+	top:1px;
+}
+a{
+	text-decoration:none;
+	color:#06F;	
+}

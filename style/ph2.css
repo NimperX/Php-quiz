@@ -1,0 +1,32 @@
+body{
+	font-family:arial;
+	background-color:#E8E8E8;
+}
+#btn{
+	color:#FFF;
+	font-size:22px;
+	width:150px;
+	background-color:#27a9e3;
+	border:none;
+	border-radius:5px;
+	
+}
+#btn:hover{
+	background-color:#2295c9;
+}
+a{
+	text-decoration:none;
+}
+table{
+	background-color:#FFF;
+	border-radius:10px;
+}
+#t1{
+	border-radius:10px;
+	border:solid;
+	border-color:#27a9e3;
+}
+th{
+	border-radius:10px;
+	color:#FFF;
+}

@@ -1,0 +1,23 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+table tr td select
+{
+width:97%;
+height: 45px;
+border: solid #e1e1e1 1px;
+border-radius:3px;
+padding-left:10px;
+font-family: Verdana, Geneva, sans-serif;
+font-size:16px;
+background: #f9f9f9;
+box-shadow: inset 0px 0px 1px rgba(0,0,0,1);
+}
+
+#login-form
+{
+margin-top: 70px;
+}
