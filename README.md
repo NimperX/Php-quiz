@@ -6,7 +6,7 @@ Php quiz with material design and mysql database
 - mySQL
 
 ### Libraries used
-- PHPMailer([https://github.com/PHPMailer/PHPMailer])
+- PHPMailer(https://github.com/PHPMailer/PHPMailer)
 
 ### Features
 - Account registration
